@@ -1,0 +1,140 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+
+.container{
+    background-color: #85BDBF;
+    display: flex;
+    justify-content: centera;
+    align-items: center;
+    padding: 450px;
+    height: 100vh;
+}
+
+
+ form{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 2vw 4vw;
+    width: 60%;
+    max-width: 600px;
+    border-radius: 10px;
+} 
+
+form h3{
+    text-align: center;
+    color: #c01736;
+    margin-bottom: 20px;
+}
+
+ form input, textarea{
+    border: 0;
+    margin: 10px 0px ;
+    padding: 20px;
+    outline: none;
+    background: #dda305a8;
+    font-size: 16px;
+    border-radius: 10px;
+    resize: none;
+}
+
+
+ form button {
+    background: #f3eded;
+    color: #e65b00;
+    border: 1px solid #e65b00;
+    padding: 15px;
+    font-size: 1px;
+    outline: none;
+    cursor: pointer;
+    width: 100%;
+    font-weight: bold;
+    margin: 20px auto 0;
+    border-radius: 100px;
+    transition: all 5s ease-in;
+}
+
+
+.button :hover{
+    border: 1px solid #f8f524;
+    background: #b41f3a;
+    color: #5D8485;
+}  */
+
+
+
+/* -------------------------google fontse--------------------------- */
+
+
+
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .container {
+    background-color:#85BDBF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .ltr {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 2vw 4vw;
+    width: 60%;
+    max-width: 600px;
+    border-radius: 10px;
+  }
+  
+  .ltr h2 {
+    text-align: center;
+    color: #e65b00;
+    margin-bottom: 20px;
+    font-size: 25px;
+  }
+  
+  .ltr input, textarea {
+    border: 0;
+    margin: 10px 0px;
+    padding: 20px;
+    outline: none;
+    background: #f5f5f5;
+    font-size: 16px;
+    border-radius: 10px;
+    resize: none;
+  }
+  
+  .ltr a {
+    background: white;
+    color: #e65b00;
+    border: 1px solid #e65b00;
+    padding: 15px ;
+    font-size: 1rem;
+    outline: none;
+    cursor: pointer;
+    width: 100%;
+    font-weight: bold;
+    margin: 20px auto 0;
+    border-radius: 30px;
+    transition: all .5s ease-in;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .ltr a:hover {
+    border: 1px solid 	#bf8785;
+    background: 	#bf8785;
+    color: white;
+  }

@@ -1,0 +1,352 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contone .image1 {
+    background-size: cover;
+    width: 100%;
+    height: 880px;
+    background-image: url(./000/l-histoire-de-one-million-de-paco-rabanne.jpg);
+    background-repeat: no-repeat;
+
+}
+
+
+.lll img{
+    /* background-image: url(./000/djol.png); */
+    width: 43%;
+    height: 600px;
+    background-repeat: no-repeat;
+    margin: 176px 838px;
+}
+
+
+ .nav{
+    width: 100%;
+    position: relative;
+    
+}
+
+
+
+ .nav{
+    color: rgb(19, 18, 18);
+    padding: 20px 54px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.nav ul  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;    
+}
+
+.nav ul li{
+    padding: 26px 37px;
+}
+
+.navbare ul li a{
+    text-decoration: none;
+    color: #FFE15D;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    font-family: 'Poppins', sans-serif;
+}
+.nav .titer mark{
+    background: none;
+    font-size: 40px;
+    color: #FFE15D;
+    /* font-family: 'Roboto Mono', monospace; */
+}
+
+.navbare ul li a:hover{
+    letter-spacing: 4px;
+}
+.titer img{
+    width: 97px;
+    height: 62px;
+    
+    
+}
+    
+.titer{
+    color: #FFE15D;
+    font-size: 27px;
+    font-weight: 600;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    display: flex;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+
+.Mana{
+    color: #FFE15D;
+    margin: 100px 226px;
+
+}
+
+.Mana h2{
+    font-size: 45px;
+    line-height: 66px;
+}
+
+.Mana .data {
+    font-size:20px ;
+    padding-top: 276px ;
+}
+
+.semple{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    
+    
+}
+
+.semple .semple-line{
+    width: 40%;
+    height: auto;
+    margin: 50px 522px;
+    
+}
+
+
+
+
+
+.semple .semple-line p{
+    padding: 20px;
+    font-size: 20px;
+}
+
+.line{
+    border-bottom:solid 10px #FFE15D ;
+    padding-bottom: 10px;
+}
+
+.diiv .line{
+    width: 80%;
+    height: auto;
+    margin: 36px 276px;
+}
+
+.diiv .line h2{
+    font-size: 29px;
+    color: #000;
+}
+
+
+
+
+.diiv {
+    width: 100%;
+    height: auto;
+}
+/* ---------------------------------------------------------------------------------- */
+.diiv-center{
+    width: 80%;
+    height: auto;
+    margin: 36px 15%;
+    
+}
+
+
+.diiv .diiv-center div{
+    background: #e1e1de;
+    width: 250px;
+    height: 298px;
+    justify-content: space-between;
+    display: inline-block;
+    padding: 10px;
+    margin: 0px 27px;
+    border-radius: 10px;
+    height: 260px;
+    padding-top: 0px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 22px;
+    box-shadow: 0 6px 20px 0 rgb(0 0 0 / 70%);
+    cursor: pointer;
+}
+
+
+.diiv .diiv-center div img{
+    height: 232px;
+}
+
+
+.diiv .diiv-center div:hover{
+    transition: all 2s;
+    transform: scale(1.1);
+}
+
+
+.cont-semple{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.cont-semple .semple-line{
+    width: 40%;
+    height: auto;
+    margin: 50px 522px;
+}
+
+
+.cont-semple .semple-line p{
+    padding: 11px;
+    font-size: 20px;
+}
+
+
+.taswira img{
+    width: 100%;
+    height: 800px;
+   
+}
+
+
+.boton{
+    display: inline-flex;
+    margin: 20px 20px;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
+
+
+
+
+.boton .boton1 img{
+    width: 383px;
+    height: 472px;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 0 16px 40px 20px rgb(0 0 0 / 60%);
+}
+
+
+.boton1 button{
+    justify-content: center;
+    margin: -10px 26px ;
+    height: 63px;
+    width: 370px;
+    background: #111;
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #FFE15D;
+
+}
+
+
+.boton2 button{
+    justify-content: center;
+    margin: -10px 26px ;
+    height: 63px;
+    width: 370px;
+    background: #111;
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #FFE15D;
+}
+
+
+
+.boton .boton2 img{
+    width: 383px;
+    height: 472px;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 0 16px 40px 20px rgb(0 0 0 / 60%);
+}
+
+
+
+.perssone{
+    background-color: #110;
+    width: 100%;
+    height: 110px;
+    color: rgb(19, 18, 18);
+    padding: 20px 585px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.perssone .input-button  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;  
+    border-radius: 10px;  
+}
+
+
+
+.input-button input{
+    width: 400px;
+    height: 42px;
+    padding: 0px 7px;
+    /* border: none; */
+}
+
+
+.input-button div button{
+    width: 44px;
+    height: 42px;
+}
+
+
+.input-button div button i {
+   font-size: 20px ;
+   color: #000;
+}
+
+
+
+
+
+
+
+.perssone .line-dyal ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none; 
+}
+
+
+.perssone .line-dyal ul li{
+    padding: 0px 10px;
+}
+
+.perssone .line-dyal ul li a{
+    text-decoration: none;
+}
+
